@@ -53,6 +53,7 @@ This process is time-consuming and prone to human error. Important error message
 
 9. A sample video clip on how to use the tool is attached on below.
     
- ![regular_expression_gif_screencastify](https://github.com/user-attachments/assets/72a2af5a-96ea-4108-91d9-19136f6f52b7)
+ ![regular_expression_instruction_clip_gif](https://github.com/user-attachments/assets/d51bfe6a-d5b4-43c5-a6d5-bc4d910d1cf1)
+
 
    
