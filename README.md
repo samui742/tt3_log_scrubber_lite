@@ -51,4 +51,8 @@ This process is time-consuming and prone to human error. Important error message
 
 ![image](https://github.com/user-attachments/assets/4ed2f293-e40c-46ba-8708-27b565fa8c44)
 
+9. A sample video clip on how to use the tool is attached on below.
+    
+ ![regular_expression_gif_screencastify](https://github.com/user-attachments/assets/72a2af5a-96ea-4108-91d9-19136f6f52b7)
 
+   
